@@ -1,6 +1,7 @@
 # C-Project-File-encryption
 
 *WHAT EVEN IS THIS C-PROJECT?*
+
 Well, as an answer, the [C-Project] series is one I implemented to help me get much better at C through actual code implementation and Projects, thre first of which is the [File Encryption Tool]. It has the following functionality:
 
 - File I/O: Reads from the source file and writes to a destination file.
