@@ -14,4 +14,4 @@ Well, as an answer, the [C-Project] series is one I implemented to help me get m
 - Process: Opens secret.txt, XORs each byte with mykey, writes to secret.enc.
 - Reverse: ./tool decrypt secret.enc secret.dec.txt "mykey" restores the original.
 
-It was a great exercise for knowledge on writing modular code, (and modular cleaning, this code was a mess at first) along with file handling and bitwise operations in C (Of which I am still learning).  Also added a little progress check to the code, given that this does not run as a GUI operation and as a CLI operation, there had to be some way to measure the progress of it all. I'd be implementing more lines of code into the codebase as the weeks go by, However I feel this is a good starting point. The point is to make it exist.
+It was a great exercise for knowledge on writing modular code, (and modular cleaning, this code was a mess at first) along with file handling and bitwise operations in C (Of which I am still learning).  Also added a little progress check to the code, given that this does not run as a GUI operation and as a CLI operation, there had to be some way to measure the progress of it all.
